@@ -1,0 +1,11 @@
+# Ignore virtual environments
+venv/
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+# Ignore logs and temporary files
+*.log
+*.tmp
+# Ignore sensitive or configuration files (customize as needed)
+config.ini
+secrets.json
